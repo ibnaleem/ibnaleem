@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibnaleem
+- 👋 Hi, I’m [@ibnaleem](https://bio.link/ibn)
 - 👀 I’m interested in ML / AI
 
 Languages/Frameworks/Tools I Use
