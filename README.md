@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@ibnaleem](https://bio.link/ibn)
 - 🚧 I’m currently working on [GnuPG Discord](https://github.com/ibnaleem/gnupg-discord)
-- 🔑 [My Public Keys](https://github.com/ibnaleem/ibnaleem/tree/main/keys)
+- 🔑 [My Public Key](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)
 
 Languages/Frameworks/Tools I Use
 
