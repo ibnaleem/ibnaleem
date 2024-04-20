@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@ibnaleem](https://bio.link/ibn)
-- 🚧 I’m currently working on [letterboxd-discord](https://github.com/ibnaleem/letterboxd-discord)
+- 🚧 I’m currently working on [amiri](https://github.com/ibnaleem/amiri)
 - 🔑 [My Public Key](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)
 
 Languages/Frameworks/Tools I Use
