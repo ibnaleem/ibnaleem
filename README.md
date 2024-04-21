@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@ibnaleem](https://bio.link/ibn)
-- 🚧 I’m currently working on [amiri](https://github.com/ibnaleem/amiri)
+- 🚧 I’m currently working on [amiri-js](https://github.com/ibnaleem/amiri-js) & [amiri-py](https://github.com/ibnaleem/amiri-py)
 - 🔑 [My Public Key](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)
 
 Languages/Frameworks/Tools I Use
