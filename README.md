@@ -4,7 +4,7 @@
 
 Languages/Frameworks/Tools I Use
 
-[![My Frameworks](https://skillicons.dev/icons?i=rust,py,haskell,javascript,html,css,vscode,mongodb,git,github,discord&perline=8)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=py,javascript,vscode,mongodb,git,github,discord&perline=8)](https://skillicons.dev)
 
 <!---
 Languages/Frameworks I'm Currently Learning
