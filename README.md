@@ -5,3 +5,5 @@
   </h3>
   
 ![IbnAleem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnaleem&show_icons=true&theme=transparent)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibnaleem&theme=matrix&row=2&column=3)](https://github.com/ibnaleem/github-profile-trophy)
