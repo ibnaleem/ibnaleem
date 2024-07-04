@@ -10,10 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: METRICS
+      name: production
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.METRICS_TOKEN }}
