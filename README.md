@@ -15,3 +15,4 @@ I am a proficient Python programmer who began coding at the age of 13. My most r
 
 ## 📈 Metrics
 ![Metrics](/github-metrics.svg)
+![Activity](/metrics.plugin.activity.svg)
