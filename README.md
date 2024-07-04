@@ -1,11 +1,16 @@
-<div align="center">
-  <h3 align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/shaffan-aleem-b7a852255/">💼 LinkedIn</a> •
-    <a target="_blank" href="https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc">🔑 Public Key</a>
-  </h3>
-  
-![IbnAleem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnaleem&show_icons=true&theme=transparent)
+## ⚡️Ibn Aleem
+### Computer Science @ University of Liverpool, seeking internships in software engineering, interested in cryptography, cybersecurity, and blockchain technologies
+ 
+[![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshaffan-aleem-b7a852255%2F?style=for-the-badge&logo=LinkedIn&logoColor=blue&label=LinkedIn&labelColor=black&color=blue)](https://www.linkedin.com/in/shaffan-aleem-b7a852255/)
+[![PGP Key](https://img.shields.io/badge/PGP%20Key-8A2BE2?style=for-the-badge&logo=monkeytie)](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)
+[![HTB Referral](https://img.shields.io/badge/HTB%20referral-htb?style=for-the-badge&logo=hackthebox&color=black
+)](https://referral.hackthebox.com/mz8xH59)
+[![THM Referral](https://img.shields.io/badge/$5%20tryhackme%20referral-thm?style=for-the-badge&logo=tryhackme&logoColor=red&color=white
+)](https://tryhackme.com/signup?referrer=64afc131a763aa00600408cb)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibnaleem&theme=matrix&row=2&column=3)](https://github.com/ibnaleem/github-profile-trophy)
 
-[![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibnaleem%2Fibnaleem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 🐍 Python Developer
+I am a proficient Python programmer who began coding at the age of 13. My most recent projects include [SnapscoreTracker](https://github.com/ibnaleem/snapscoretracker) and [InstaTracker](https://github.com/ibnaleem/instatracker). My interest in blockchain technology prompted me to implement a simple [blockchain in Python.](https://github.com/ibnaleem/blockchain) I learned Haskell and Java during my time at university and am currently expanding my skill set by learning C, C++, and C#/.NET.
+
+## 📈 Metrics
