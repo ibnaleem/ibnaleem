@@ -14,4 +14,6 @@
 I am a proficient Python programmer who began coding at the age of 13. My most recent projects include [SnapscoreTracker](https://github.com/ibnaleem/snapscoretracker) and [InstaTracker](https://github.com/ibnaleem/instatracker). My interest in blockchain technology prompted me to implement a simple [blockchain in Python.](https://github.com/ibnaleem/blockchain) I learned Haskell and Java during my time at university and am currently expanding my skill set by learning C, C++, and C#/.NET.
 
 ## 📈 Metrics
-![Metrics](/github-metrics.svg) ![Activity](/metrics.plugin.activity.svg)
+![Metrics](/github-metrics.svg) 
+![Activity](/metrics.plugin.activity.svg) 
+![Mildly Interesting](/metrics.plugin.habits.facts.svg)
