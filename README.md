@@ -2,7 +2,7 @@
 - 🌍 I'm from the United Kingdom
 - ✉️ Contact:
    - For GitHub related enquiries: [ibnaleem@outlook.com](mailto:ibnaleem@outlook.com) ([Encrypt & Sign Using 862BBADE PGP Key](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc))
-   - For work related enquires: [shaffanaleem@hotmail.com](mailto:shaffanaleem@hotmail.com) ([Encrypt & Sign Using D8A458B8 PGP Key](https://keys.openpgp.org/search?q=shaffanaleem%40hotmail.com)
+   - For work related enquires: [shaffanaleem@hotmail.com](mailto:shaffanaleem@hotmail.com) ([Encrypt & Sign Using D8A458B8 PGP Key](https://keys.openpgp.org/search?q=shaffanaleem%40hotmail.com))
 - 🧠 I'm studying Computer Science @ Liverpool, whilst studying Cybersecurity in my free-time
 - 🤝 I'm open for collaborations on any open-source project
 
