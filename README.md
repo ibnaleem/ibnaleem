@@ -13,6 +13,11 @@
 [![THM Referral](https://img.shields.io/badge/$5%20tryhackme%20referral-thm?style=for-the-badge&logo=tryhackme&logoColor=red&color=white
 )](https://tryhackme.com/signup?referrer=64afc131a763aa00600408cb)
 
+<details close>
+<summary>🔗 Fosstodon Invite Link</summary>
+<br><blockquote>https://fosstodon.org/invite/YFHD9yq</blockquote></br>
+</details>
+
 <a rel="me" href="https://fosstodon.org/@ibnaleem"></a>
 
 ## 📈 Metrics
