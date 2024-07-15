@@ -20,6 +20,7 @@
 
 <a rel="me" href="https://fosstodon.org/@ibnaleem"></a>
 ## 🔗 [shaffan.dev](https://shaffan.dev)
+If you're using [NextDNS](https://my.nextdns.io/954a5b/allowlist), add `shaffan.dev` to its allowlist to bypass the *Newly Registered Domain* flag.
 ## 📈 Metrics
 ![Metrics](/github-metrics.svg) 
 ![Activity](/metrics.plugin.activity.svg) 
