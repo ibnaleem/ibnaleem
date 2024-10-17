@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Shaffan Aleem
 - 🌍 I'm from the United Kingdom
-- ✉️ [contact@shaffan.dev](mailto:contact@shaffan.dev)
+- ✉️ [ibnaleem@outlook.com](mailto:ibnaleem@outlook.com) [[PGP Key](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)]
 - 🧠 I'm studying Computer Science @ Liverpool, whilst studying Cybersecurity in my free-time
 - 🤝 I'm open for collaborations on any open-source project
 
