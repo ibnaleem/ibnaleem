@@ -1,7 +1,6 @@
 # 📌 Shaffan Aleem
 ### Developer, ethical hacker, security researcher, and a second year Computer Science student & representative @ University of Liverpool. 
 
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaffan-aleem-b7a852255) [![PGP Key](https://img.shields.io/badge/PGP%20Key-8A2BE2?style=for-the-badge&logo=monkeytie)](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)
 [![HTB Referral](https://img.shields.io/badge/HTB%20referral-htb?style=for-the-badge&logo=hackthebox&color=black
@@ -19,9 +18,9 @@ If you're using [NextDNS](https://my.nextdns.io/), add `shaffan.dev` to its allo
 # 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ibnaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibnaleem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibnaleem&icon=0&color=0)](https://visitcount.itsvg.in)
