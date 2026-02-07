@@ -1,31 +1,30 @@
-# 📌 Shaffan Aleem
-### Developer, ethical hacker, security researcher, and a second year Computer Science student & representative @ University of Liverpool. 
+# Hi, I'm Shaffan 👋
+🎓 **University of Liverpool** | 🧑‍💻 **Software Engineer @ Diagnostic World** | 🕵️‍♂️ **Offensive Security Researcher**
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaffan-aleem-b7a852255) [![PGP Key](https://img.shields.io/badge/PGP%20Key-8A2BE2?style=for-the-badge&logo=monkeytie)](https://github.com/ibnaleem/ibnaleem/blob/main/public_key.asc)
-[![HTB Referral](https://img.shields.io/badge/HTB%20referral-htb?style=for-the-badge&logo=hackthebox&color=black
-)](https://referral.hackthebox.com/mz8xH59)
-[![THM Referral](https://img.shields.io/badge/$5%20tryhackme%20referral-thm?style=for-the-badge&logo=tryhackme&logoColor=red&color=white
-)](https://tryhackme.com/signup?referrer=64afc131a763aa00600408cb)
-<details close>
-<summary>🔗 Fosstodon Invite Link</summary>
-<br><blockquote>https://fosstodon.org/invite/YFHD9yq</blockquote></br>
-</details>
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
+![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-%232C2052?style=flat-square&logo=linux&logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23DD0031?style=flat-square&logo=bug&logoColor=white)
 
-## 🔗 [shaffan.dev](https://shaffan.dev)
-If you're using [NextDNS](https://nextdns.io/?from=xnag6a6w), add `shaffan.dev` to its allowlist to bypass the *Newly Registered Domain* flag.
+## 🛠️ Current Projects
 
-# 💻 Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ibnaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibnaleem&theme=dark&hide_border=false)<br/>
+- 🔍 **[GoSearch](https://github.com/ibnaleem/gosearch)** - Search anyone's digital footprint across 300+ websites
+- 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
+- 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
 
----
-[![](https://visitcount.itsvg.in/api?id=ibnaleem&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Contributions
+- 🔍 **[Search-That-Hash](https://github.com/Jayy001/Search-That-Hash/)** - **[`PR #210`](https://github.com/Jayy001/Search-That-Hash/pull/210)** - Added Weakpass API for cracking uncommon hashes
+- 🦋 **[Sherlock](https://github.com/sherlock-project/sherlock/)** - **[`PR #2394`](https://github.com/sherlock-project/sherlock/pull/2394)** - Added Bluesky target for Sherlock to find Bluesky accounts
 
-  ## 💰 You can help me by donating
+## 💰 You can help me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibnaleem) 
 
 <a rel="me" href="https://fosstodon.org/@ibnaleem"></a>
