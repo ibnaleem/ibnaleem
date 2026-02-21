@@ -18,6 +18,7 @@
 
 - 🔍 **[GoSearch](https://github.com/ibnaleem/gosearch)** - Search anyone's digital footprint across 300+ websites
 - 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
+- 🎨 **[Weakpass-CLI](https://github.com/weakpass-cli)** - Interact with Weakpass.com's API through the terminal
 - 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
 
 ## 🤝 Contributions
