@@ -22,6 +22,7 @@
 - **[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/)** - Used a hashmap to convert a Roman numeral string to an integer by iterating through the characters and adjusting the counter based on whether the next character represents a larger value
 - **[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** - Used a hashmap to count the number of times an integer appears in an array
 - [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/) - Used binary search to find insert position in `O(log n)` time
+- [**3668. Restore Finishing Order**](https://leetcode.com/problems/restore-finishing-order) - Used a hashmap to achieve `0ms` runtime
 
 ## 🛠️ Current Projects
 
