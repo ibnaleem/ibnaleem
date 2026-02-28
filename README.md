@@ -24,6 +24,7 @@
 - [**35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/) - Used binary search to find insert position in `O(log n)` time
 - [**3668. Restore Finishing Order**](https://leetcode.com/problems/restore-finishing-order) - Used a hashmap to achieve `0ms` runtime
 - [**3289. The Two Sneaky Numbers of Digitville**](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) - Used hashmap - could have used a `set()`
+- [**3760. Maximum Substrings With Distinct Start**](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) - Originally used a `len(hashmap)`, then changed to `len(set(s))`
 
 ## 🛠️ Current Projects
 
