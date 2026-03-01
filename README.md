@@ -25,6 +25,7 @@
 - [**3668. Restore Finishing Order**](https://leetcode.com/problems/restore-finishing-order) - Used a hashmap to achieve `0ms` runtime
 - [**3289. The Two Sneaky Numbers of Digitville**](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) - Used hashmap - could have used a `set()`
 - [**3760. Maximum Substrings With Distinct Start**](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) - Originally used a `len(hashmap)`, then changed to `len(set(s))`
+- [**45. Jump Game II**](https://gist.github.com/ibnaleem/13c58994e82bed542a01d0482f7dcf92) - Used a greedy breadth-first-search algorithm to solve the minimum number of jumps needed to reach the end
 
 ## 🛠️ Current Projects
 
