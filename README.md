@@ -33,6 +33,7 @@
 - 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
 - 🎨 **[weakpass-cli](https://github.com/ibnaleem/weakpass-cli/)** - Interact with Weakpass.com's API through the terminal
 - 👀 **[bgrep](https://github.com/ibnaleem/bgrep)** - Search contents of a file using binary search
+- 🔢 **[number-guessing-game](https://github.com/ibnaleem/number-guessing-game)** - a number guesing game that uses binary search for learning purposes
 - 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
 
 ## 🤝 Contributions
