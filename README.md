@@ -19,7 +19,7 @@
 - [**3760. Maximum Substrings With Distinct Start**](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) - Originally used a `len(hashmap)`, then changed to `len(set(s))`
 - [**45. Jump Game II**](https://gist.github.com/ibnaleem/13c58994e82bed542a01d0482f7dcf92) - Used a greedy breadth-first-search algorithm to solve the minimum number of jumps needed to reach the end
 - [**167. Two Sum II - Input Array Is Sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - Used two-pointer technique
-- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - You can read [this blog post](https://shaffan.dev/blog/longest-consecutive-sequence-solution) detailing my solution
+- [**128. Longest Consecutive Sequence**](https://leetcode.com/problems/longest-consecutive-sequence/) - You can read [this blog post](https://shaffan.dev/blog/longest-consecutive-sequence-solution) detailing my solution
 
 ## 🛠️ Current Projects
 
