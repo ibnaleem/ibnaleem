@@ -27,6 +27,7 @@
 - 🔍 **[GoSearch](https://github.com/ibnaleem/gosearch)** - Search anyone's digital footprint across 300+ websites
 - 🪾  **[golsm](https://github.com/ibnaleem/golsm)** - A lightweight LSM-Tree key-value storage engine written in Go
 - 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
+- 🛡️ **[VTScan](https://github.com/ibnaleem/vtscan)** - VirusTotal for the terminal
 - 🎨 **[weakpass-cli](https://github.com/ibnaleem/weakpass-cli/)** - Interact with Weakpass.com's API through the terminal
 - 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
 
