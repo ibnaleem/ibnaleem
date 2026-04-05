@@ -28,6 +28,7 @@
 - 🪾  **[golsm](https://github.com/ibnaleem/golsm)** - A lightweight LSM-Tree key-value storage engine written in Go
 - 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
 - 🛡️ **[VTScan](https://github.com/ibnaleem/vtscan)** - VirusTotal for the terminal
+- ⚙️ **[gnucore](https://github.com/ibnaleem/gnucore)** - GNU core utilities and custom binaries reimplemented in C for Windows
 - 🎨 **[weakpass-cli](https://github.com/ibnaleem/weakpass-cli/)** - Interact with Weakpass.com's API through the terminal
 - 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
 
