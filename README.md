@@ -41,6 +41,8 @@
 ![GitHub Activity Graph](https://ghchart.rshah.org/ibnaleem)
 
 ## ✍️ Latest Posts
+- [**Introduction to Information Security: The OSI Security Architecture**](https://shaffan.dev/blog/introduction-to-information-security-the-osi-security-architecture/)
+- [**Introduction to Information Security: The CIA Triad**](https://shaffan.dev/blog/introduction-to-information-security-the-cia-triad/)
 - [**Using Russian Transliteration to Crack Complex Passwords**](https://shaffan.dev/blog/using-russian-transliteration-to-crack-passwords/)
 
 ## 🔗 Socials
