@@ -40,6 +40,9 @@
 ## 📈 GitHub Activity
 ![GitHub Activity Graph](https://ghchart.rshah.org/ibnaleem)
 
+<!--STATS_START-->
+<!--STATS_END-->
+
 ## ✍️ Latest Posts
 - [**Introduction to Information Security: The OSI Security Architecture**](https://shaffan.dev/blog/introduction-to-information-security-the-osi-security-architecture/)
 - [**Introduction to Information Security: The CIA Triad**](https://shaffan.dev/blog/introduction-to-information-security-the-cia-triad/)
