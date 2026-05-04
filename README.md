@@ -41,6 +41,14 @@
 ![GitHub Activity Graph](https://ghchart.rshah.org/ibnaleem)
 
 <!--STATS_START-->
+```
+num stars across all repos:  3692
+num forks across all repos:  385
+num prs received:            72
+num prs closed:              72
+num issues received:         69
+num issues closed:           57
+```
 <!--STATS_END-->
 
 ## ✍️ Latest Posts
