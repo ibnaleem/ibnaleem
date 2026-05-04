@@ -41,6 +41,8 @@ jobs:
           # Replace the block between the markers in README.md
           STATS_BLOCK="<!--STATS_START-->
           \`\`\`
+          /home/ibnaleem $ stats
+          
           num stars across all repos:  $STARS
           num forks across all repos:  $FORKS
           num prs received:            $PRS_RECEIVED
