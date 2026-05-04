@@ -1,0 +1,66 @@
+name: Repository Stats
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Fetch and Embed Stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          STARS=$(gh api "/users/$USERNAME/repos?per_page=100&type=owner" \
+            --paginate -q '[.[].stargazers_count] | add // 0')
+
+          FORKS=$(gh api "/users/$USERNAME/repos?per_page=100&type=owner" \
+            --paginate -q '[.[].forks_count] | add // 0')
+
+          PRS_RECEIVED=$(gh api "search/issues?q=type:pr+user:$USERNAME&per_page=1" \
+            -q '.total_count')
+
+          PRS_CLOSED=$(gh api "search/issues?q=type:pr+user:$USERNAME+state:closed&per_page=1" \
+            -q '.total_count')
+
+          ISSUES_RECEIVED=$(gh api "search/issues?q=type:issue+user:$USERNAME&per_page=1" \
+            -q '.total_count')
+
+          ISSUES_CLOSED=$(gh api "search/issues?q=type:issue+user:$USERNAME+state:closed&per_page=1" \
+            -q '.total_count')
+
+          # Replace the block between the markers in README.md
+          STATS_BLOCK="<!--STATS_START-->
+          \`\`\`
+          num stars across all repos:  $STARS
+          num forks across all repos:  $FORKS
+          num prs received:            $PRS_RECEIVED
+          num prs closed:              $PRS_CLOSED
+          num issues received:         $ISSUES_RECEIVED
+          num issues closed:           $ISSUES_CLOSED
+          \`\`\`
+          <!--STATS_END-->"
+
+          # Use awk to replace everything between the markers
+          awk -v block="$STATS_BLOCK" '
+            /<!--STATS_START-->/ { print block; skip=1 }
+            /<!--STATS_END-->/ { skip=0; next }
+            !skip { print }
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update stats"
+          git push
