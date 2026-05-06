@@ -44,7 +44,7 @@
 ```
 /home/ibnaleem $ stats
 
-num stars across all repos:  3694
+num stars across all repos:  3696
 num forks across all repos:  385
 num prs received:            72
 num prs closed:              72
