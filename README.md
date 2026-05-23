@@ -35,6 +35,7 @@
 ## 🧩 Agentic Skills
 - 🔑 **[weakpass-skill](https://clawhub.ai/ibnaleem/weakpass)** - [`repo`](https://github.com/ibnaleem/weakpass-skill) - Give your AI agent access to 25 billion leaked passwords
 - 🔍 **[comb-skill](https://clawhub.ai/ibnaleem/comb)** - [`repo`](https://github.com/ibnaleem/comb-skill) - Give your AI agent access to the Combination of Many Breaches dataset, containing 3.2 billion credentials
+- ⚙️ **[ifconfig-skill](https://clawhub.ai/ibnaleem/ifconfig)** - [`repo`](https://github.com/ibnaleem/ifconfig-skill) - Let your AI agent debug your server's external requests
 
 ## 🤝 Contributions
 - 🔍 **[Search-That-Hash](https://github.com/Jayy001/Search-That-Hash/)** - **[`PR #210`](https://github.com/Jayy001/Search-That-Hash/pull/210)** - Added Weakpass API for cracking uncommon hashes
