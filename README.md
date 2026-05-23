@@ -30,6 +30,7 @@
 - 🛡️ **[VTScan](https://github.com/ibnaleem/vtscan)** - VirusTotal for the terminal
 - ⚙️ **[gnucore](https://github.com/ibnaleem/gnucore)** - GNU core utilities and custom binaries reimplemented in C for Windows
 - 🎨 **[weakpass-cli](https://github.com/ibnaleem/weakpass-cli/)** - Interact with Weakpass.com's API through the terminal
+- 🔑 **[weakpass-skill](https://github.com/ibnaleem/weakpass-skill)** - Give your AI agent access to 25 billion leaked passwords 
 - 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
 
 ## 🤝 Contributions
