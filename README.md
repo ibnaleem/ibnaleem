@@ -50,12 +50,12 @@
 ```
 /home/ibnaleem $ stats
 
-num stars across all repos:  3722
-num forks across all repos:  391
-num prs received:            72
-num prs closed:              72
+num stars across all repos:  3724
+num forks across all repos:  392
+num prs received:            75
+num prs closed:              75
 num issues received:         71
-num issues closed:           59
+num issues closed:           60
 ```
 <!--STATS_END-->
 
