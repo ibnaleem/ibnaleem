@@ -18,6 +18,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: leetcode-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
