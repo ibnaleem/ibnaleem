@@ -14,13 +14,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-%232C2052?style=flat-square&logo=linux&logoColor=white) 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23DD0031?style=flat-square&logo=bug&logoColor=white)
 
-## 💻 Leetcode Solutions (medium + hard)
-- **[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)** - Used sliding window to check if there are two indices `i` and `j` such that `array[i] == array[j]` and `abs(i - j) <= k`
-- [**3760. Maximum Substrings With Distinct Start**](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) - Originally used a `len(hashmap)`, then changed to `len(set(s))`
-- [**45. Jump Game II**](https://gist.github.com/ibnaleem/13c58994e82bed542a01d0482f7dcf92) - Used a greedy breadth-first-search algorithm to solve the minimum number of jumps needed to reach the end
-- [**167. Two Sum II - Input Array Is Sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - Used two-pointer technique
-- [**128. Longest Consecutive Sequence**](https://leetcode.com/problems/longest-consecutive-sequence/) - You can read [this blog post](https://shaffan.dev/blog/longest-consecutive-sequence-solution) detailing my solution
-- [**15. 3Sum**](https://leetcode.com/problems/3sum/) - Used two-pointer technique with a bit of looping logic
+![Leetcode Metrics ibnaleem](/leetcode-metrics.svg)
 
 ## 🛠️ Current Projects
 
