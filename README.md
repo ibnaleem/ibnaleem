@@ -39,19 +39,7 @@
 
 ## 📈 GitHub Activity
 ![GitHub Activity Graph](https://ghchart.rshah.org/ibnaleem)
-
-<!--STATS_START-->
-```
-/home/ibnaleem $ stats
-
-num stars across all repos:  3726
-num forks across all repos:  392
-num prs received:            75
-num prs closed:              75
-num issues received:         71
-num issues closed:           60
-```
-<!--STATS_END-->
+![GitHub Activity](/activity-metrics.svg)
 
 ## ✍️ Latest Posts
 - [**Introduction to Information Security: The OSI Security Architecture**](https://shaffan.dev/blog/introduction-to-information-security-the-osi-security-architecture/)
