@@ -19,6 +19,7 @@
 ## 🛠️ Current Projects
 
 - 🔍 **[GoSearch](https://github.com/ibnaleem/gosearch)** - Search anyone's digital footprint across 300+ websites
+- 👾 **[Cadence](https://github.com/ibnaleem/cadence)** - Your terminal-based habit tracker
 - 🪾  **[golsm](https://github.com/ibnaleem/golsm)** - A lightweight LSM-Tree key-value storage engine written in Go
 - 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
 - 🛡️ **[VTScan](https://github.com/ibnaleem/vtscan)** - VirusTotal for the terminal
