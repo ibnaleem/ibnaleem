@@ -26,6 +26,7 @@
 - ⚙️ **[gnucore](https://github.com/ibnaleem/gnucore)** - GNU core utilities and custom binaries reimplemented in C for Windows
 - 🎨 **[weakpass-cli](https://github.com/ibnaleem/weakpass-cli/)** - Interact with Weakpass.com's API through the terminal
 - 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
+- 📑 **[Tables](https://github.com/ibnaleem/tables)** - Lastest Hashcat tables for password cracking
 
 ## 🧩 Agentic Skills
 - 💻 **[hashmob-skill](https://clawhub.ai/ibnaleem/hashmob)** - [`repo`](https://github.com/ibnaleem/hashmob-skill) - Let your AI agent interact wth Hashmob.net
