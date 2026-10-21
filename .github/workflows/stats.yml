@@ -20,44 +20,61 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
           USERNAME: ${{ github.repository_owner }}
         run: |
-          STARS=$(gh api "/users/$USERNAME/repos?per_page=100&type=owner" \
-            --paginate -q '[.[].stargazers_count] | add // 0')
+          count() { gh api "search/$1?q=$2&per_page=1" -q '.total_count'; }
 
-          FORKS=$(gh api "/users/$USERNAME/repos?per_page=100&type=owner" \
-            --paginate -q '[.[].forks_count] | add // 0')
+          USER_JSON=$(gh api "/users/$USERNAME")
+          REPOS_JSON=$(gh api "/users/$USERNAME/repos?per_page=100&type=owner" --paginate | jq -s 'add')
 
-          PRS_RECEIVED=$(gh api "search/issues?q=type:pr+user:$USERNAME&per_page=1" \
-            -q '.total_count')
+          CONTRIBUTIONS=$(gh api graphql -f login="$USERNAME" -f query='
+            query($login: String!) {
+              user(login: $login) {
+                contributionsCollection { contributionCalendar { totalContributions } }
+              }
+            }' -q '.data.user.contributionsCollection.contributionCalendar.totalContributions')
 
-          PRS_CLOSED=$(gh api "search/issues?q=type:pr+user:$USERNAME+state:closed&per_page=1" \
-            -q '.total_count')
+          STATS_JSON=$(jq -n \
+            --arg user "$USERNAME" \
+            --argjson profile "$USER_JSON" \
+            --argjson repos "$REPOS_JSON" \
+            --argjson commits "$(count commits "author:$USERNAME")" \
+            --argjson contributions "$CONTRIBUTIONS" \
+            --argjson prs_received "$(count issues "type:pr+user:$USERNAME")" \
+            --argjson prs_closed "$(count issues "type:pr+user:$USERNAME+state:closed")" \
+            --argjson prs_merged "$(count issues "type:pr+author:$USERNAME+is:merged")" \
+            --argjson issues_received "$(count issues "type:issue+user:$USERNAME")" \
+            --argjson issues_closed "$(count issues "type:issue+user:$USERNAME+state:closed")" \
+            --arg updated_at "$(date -u +%F)" \
+            '{user: $user,
+              member_since: ($profile.created_at[0:4] | tonumber),
+              repos: $profile.public_repos,
+              followers: $profile.followers,
+              stars: ([$repos[].stargazers_count] | add // 0),
+              forks: ([$repos[].forks_count] | add // 0),
+              top_language: ([$repos[] | select(.fork | not) | .language | values]
+                | group_by(.) | max_by(length) | .[0] // null),
+              commits: $commits,
+              contributions_last_year: $contributions,
+              pull_requests: {received: $prs_received, closed: $prs_closed, merged: $prs_merged},
+              issues: {received: $issues_received, closed: $issues_closed},
+              updated_at: $updated_at}')
 
-          ISSUES_RECEIVED=$(gh api "search/issues?q=type:issue+user:$USERNAME&per_page=1" \
-            -q '.total_count')
+          {
+            echo '<!--STATS_START-->'
+            echo '```json'
+            echo "/home/$USERNAME \$ stats --json"
+            echo "$STATS_JSON"
+            echo '```'
+            echo '<!--STATS_END-->'
+          } > stats.block
 
-          ISSUES_CLOSED=$(gh api "search/issues?q=type:issue+user:$USERNAME+state:closed&per_page=1" \
-            -q '.total_count')
-
-          # Replace the block between the markers in README.md
-          STATS_BLOCK="<!--STATS_START-->
-          \`\`\`
-          /home/ibnaleem $ stats
-          
-          num stars across all repos:  $STARS
-          num forks across all repos:  $FORKS
-          num prs received:            $PRS_RECEIVED
-          num prs closed:              $PRS_CLOSED
-          num issues received:         $ISSUES_RECEIVED
-          num issues closed:           $ISSUES_CLOSED
-          \`\`\`
-          <!--STATS_END-->"
-
-          # Use awk to replace everything between the markers
-          awk -v block="$STATS_BLOCK" '
-            /<!--STATS_START-->/ { print block; skip=1 }
+          # Swap everything between the markers for stats.block
+          awk '
+            FNR==NR { block = block $0 "\n"; next }
+            /<!--STATS_START-->/ { printf "%s", block; skip=1 }
             /<!--STATS_END-->/ { skip=0; next }
             !skip { print }
-          ' README.md > README.tmp && mv README.tmp README.md
+          ' stats.block README.md > README.tmp && mv README.tmp README.md
+          rm stats.block
 
       - name: Commit and Push
         run: |
