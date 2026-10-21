@@ -1,59 +1,70 @@
-# Hi, I'm Shaffan 👋
-🎓 **University of Liverpool** | 🧑‍💻 **Software Engineer @ Diagnostic World** | 🕵️‍♂️ **Offensive Security Researcher**
+### shaffan
 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
-![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-%232C2052?style=flat-square&logo=linux&logoColor=white) 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23DD0031?style=flat-square&logo=bug&logoColor=white)
+aka ibnaleem · software engineer @ diagnostic world · university of liverpool
 
-![Leetcode Metrics ibnaleem](/leetcode-metrics.svg)
+backend engineering, cryptography, offensive security.
 
-## 🛠️ Current Projects
+<samp>
+<a href="https://shaffan.dev">blog</a> ·
+<a href="https://linkedin.com/in/shaffan-a-b7a852255">linkedin</a> ·
+<a rel="me" href="https://fosstodon.org/@ibnaleem">fosstodon</a> ·
+<a href="/public_key.asc">pgp</a> ·
+<a href="https://buymeacoffee.com/ibnaleem">sponsor</a>
+</samp>
 
-- 🔍 **[GoSearch](https://github.com/ibnaleem/gosearch)** - Search anyone's digital footprint across 300+ websites
-- 👾 **[Cadence](https://github.com/ibnaleem/cadence)** - Your terminal-based habit tracker
-- 🪾  **[golsm](https://github.com/ibnaleem/golsm)** - A lightweight LSM-Tree key-value storage engine written in Go
-- 🧩 **[Checksum](https://github.com/ibnaleem/checksum)** - Verify file checksums
-- 🛡️ **[VTScan](https://github.com/ibnaleem/vtscan)** - VirusTotal for the terminal
-- ⚙️ **[gnucore](https://github.com/ibnaleem/gnucore)** - GNU core utilities and custom binaries reimplemented in C for Windows
-- 🎨 **[weakpass-cli](https://github.com/ibnaleem/weakpass-cli/)** - Interact with Weakpass.com's API through the terminal
-- 📜 **[Rules](https://github.com/ibnaleem/rules)** - Lastest Hashcat rules for password cracking
-- 📑 **[Tables](https://github.com/ibnaleem/tables)** - Lastest Hashcat tables for password cracking
+<br>
 
-## 🧩 Agentic Skills
-- 💻 **[hashmob-skill](https://clawhub.ai/ibnaleem/hashmob)** - [`repo`](https://github.com/ibnaleem/hashmob-skill) - Let your AI agent interact wth Hashmob.net
-- 🔑 **[weakpass-skill](https://clawhub.ai/ibnaleem/weakpass)** - [`repo`](https://github.com/ibnaleem/weakpass-skill) - Give your AI agent access to 25 billion leaked passwords
-- 🔍 **[comb-skill](https://clawhub.ai/ibnaleem/comb)** - [`repo`](https://github.com/ibnaleem/comb-skill) - Give your AI agent access to the Combination of Many Breaches dataset, containing 3.2 billion credentials
-- ⚙️ **[ifconfig-skill](https://clawhub.ai/ibnaleem/ifconfig)** - [`repo`](https://github.com/ibnaleem/ifconfig-skill) - Let your AI agent debug your server's external requests
+<!--STATS_START-->
+```json
+/home/ibnaleem $ stats --json
+{
+  "user": "ibnaleem",
+  "member_since": 0,
+  "repos": 0,
+  "followers": 0,
+  "stars": 0,
+  "forks": 0,
+  "top_language": null,
+  "commits": 0,
+  "contributions_last_year": 0,
+  "pull_requests": {
+    "received": 0,
+    "closed": 0,
+    "merged": 0
+  },
+  "issues": {
+    "received": 0,
+    "closed": 0
+  },
+  "updated_at": "2026-10-21"
+}
+```
+<!--STATS_END-->
 
-## 🤝 Contributions
-- 🔍 **[Search-That-Hash](https://github.com/Jayy001/Search-That-Hash/)** - **[`PR #210`](https://github.com/Jayy001/Search-That-Hash/pull/210)** - Added Weakpass API for cracking uncommon hashes
-- 🦋 **[Sherlock](https://github.com/sherlock-project/sherlock/)** - **[`PR #2394`](https://github.com/sherlock-project/sherlock/pull/2394)** - Added Bluesky target for Sherlock to find Bluesky accounts
+![contributions](https://ghchart.rshah.org/ibnaleem)
 
+#### projects
 
-## 📈 GitHub Activity
-![GitHub Activity Graph](https://ghchart.rshah.org/ibnaleem)
-![GitHub Activity](/activity-metrics.svg)
+| repo | |
+|---|---|
+| [gosearch](https://github.com/ibnaleem/gosearch) | search anyone's digital footprint across 300+ websites |
+| [golsm](https://github.com/ibnaleem/golsm) | lsm-tree key-value storage engine in go |
+| [cadence](https://github.com/ibnaleem/cadence) | terminal habit tracker |
+| [vtscan](https://github.com/ibnaleem/vtscan) | virustotal from the terminal |
+| [checksum](https://github.com/ibnaleem/checksum) | verify file checksums |
+| [rules](https://github.com/ibnaleem/rules) · [tables](https://github.com/ibnaleem/tables) | latest hashcat rules and tables |
 
-## ✍️ Latest Posts
-- [**Introduction to Information Security: The OSI Security Architecture**](https://shaffan.dev/blog/introduction-to-information-security-the-osi-security-architecture/)
-- [**Introduction to Information Security: The CIA Triad**](https://shaffan.dev/blog/introduction-to-information-security-the-cia-triad/)
-- [**Using Russian Transliteration to Crack Complex Passwords**](https://shaffan.dev/blog/using-russian-transliteration-to-crack-passwords/)
+#### agent skills
 
-## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/Shaffan%20Aleem-0077b5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://linkedin.com/in/shaffan-a-b7a852255)
+| skill | |
+|---|---|
+| [hashmob](https://clawhub.ai/ibnaleem/hashmob) ([src](https://github.com/ibnaleem/hashmob-skill)) | hashmob.net for your agent |
+| [weakpass](https://clawhub.ai/ibnaleem/weakpass) ([src](https://github.com/ibnaleem/weakpass-skill)) | 25b leaked passwords |
+| [comb](https://clawhub.ai/ibnaleem/comb) ([src](https://github.com/ibnaleem/comb-skill)) | 3.2b credentials from the comb dataset |
 
-[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=blogger&logoColor=white)](https://shaffan.dev)
+#### upstream
 
-## 💰 You can help me by donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibnaleem) 
+- [sherlock-project/sherlock#2394](https://github.com/sherlock-project/sherlock/pull/2394): bluesky target
+- [Jayy001/Search-That-Hash#210](https://github.com/Jayy001/Search-That-Hash/pull/210): weakpass api for uncommon hashes
 
-<a rel="me" href="https://fosstodon.org/@ibnaleem"></a>
+<sub>go · c · python · typescript · postgres · redis · linux · burp</sub>
