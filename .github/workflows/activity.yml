@@ -21,7 +21,10 @@ jobs:
           filename: activity-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: ""
+          base: activity, community, repositories
+
+          plugin_languages: yes
+          plugin_languages_limit: 6
 
           plugin_activity: yes
           plugin_activity_limit: 5
