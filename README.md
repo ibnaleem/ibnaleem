@@ -23,21 +23,21 @@ backend engineering, cryptography, offensive security.
   "member_since": 2023,
   "repos": 102,
   "followers": 176,
-  "stars": 4194,
+  "stars": 4195,
   "forks": 435,
   "top_language": "Python",
-  "commits": 3288,
-  "contributions_last_year": 907,
+  "commits": 3298,
+  "contributions_last_year": 923,
   "pull_requests": {
-    "received": 103,
-    "closed": 101,
-    "merged": 49
+    "received": 105,
+    "closed": 103,
+    "merged": 51
   },
   "issues": {
     "received": 80,
     "closed": 70
   },
-  "updated_at": "2026-10-21"
+  "updated_at": "2026-10-22"
 }
 ```
 <!--STATS_END-->
