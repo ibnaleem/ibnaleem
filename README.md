@@ -24,20 +24,20 @@ backend engineering, cryptography, offensive security.
   "repos": 102,
   "followers": 179,
   "stars": 4204,
-  "forks": 439,
+  "forks": 440,
   "top_language": "Python",
-  "commits": 3299,
-  "contributions_last_year": 917,
+  "commits": 3298,
+  "contributions_last_year": 918,
   "pull_requests": {
     "received": 107,
-    "closed": 103,
+    "closed": 104,
     "merged": 51
   },
   "issues": {
     "received": 83,
     "closed": 73
   },
-  "updated_at": "2026-10-28"
+  "updated_at": "2026-10-29"
 }
 ```
 <!--STATS_END-->
