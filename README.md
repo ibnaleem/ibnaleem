@@ -68,4 +68,4 @@ backend engineering, cryptography, offensive security.
 - [sherlock-project/sherlock#2394](https://github.com/sherlock-project/sherlock/pull/2394): bluesky target
 - [Jayy001/Search-That-Hash#210](https://github.com/Jayy001/Search-That-Hash/pull/210): weakpass api for uncommon hashes
 
-<sub>go · c · python · typescript · postgres · redis · linux · burp</sub>
+<sub>go · rust · c · python · typescript · postgres · redis · linux · burp</sub>
