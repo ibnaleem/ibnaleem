@@ -48,5 +48,6 @@ backend engineering, cryptography, offensive security.
 
 - [sherlock-project/sherlock#2394](https://github.com/sherlock-project/sherlock/pull/2394): bluesky target
 - [Jayy001/Search-That-Hash#210](https://github.com/Jayy001/Search-That-Hash/pull/210): weakpass api for uncommon hashes
+- [JuliusBrussee/caveman#1395](https://github.com/JuliusBrussee/caveman/pull/1395): fix doctor/enable deadlock on reordered hook keys
 
 <sub>go · rust · c · python · typescript · postgres · redis · linux · burp</sub>
