@@ -44,25 +44,6 @@ backend engineering, cryptography, offensive security.
 
 ![contributions](https://ghchart.rshah.org/ibnaleem)
 
-#### projects
-
-| repo | |
-|---|---|
-| [gosearch](https://github.com/ibnaleem/gosearch) | search anyone's digital footprint across 300+ websites |
-| [golsm](https://github.com/ibnaleem/golsm) | lsm-tree key-value storage engine in go |
-| [cadence](https://github.com/ibnaleem/cadence) | terminal habit tracker |
-| [vtscan](https://github.com/ibnaleem/vtscan) | virustotal from the terminal |
-| [checksum](https://github.com/ibnaleem/checksum) | verify file checksums |
-| [rules](https://github.com/ibnaleem/rules) · [tables](https://github.com/ibnaleem/tables) | latest hashcat rules and tables |
-
-#### agent skills
-
-| skill | |
-|---|---|
-| [hashmob](https://clawhub.ai/ibnaleem/hashmob) ([src](https://github.com/ibnaleem/hashmob-skill)) | hashmob.net for your agent |
-| [weakpass](https://clawhub.ai/ibnaleem/weakpass) ([src](https://github.com/ibnaleem/weakpass-skill)) | 25b leaked passwords |
-| [comb](https://clawhub.ai/ibnaleem/comb) ([src](https://github.com/ibnaleem/comb-skill)) | 3.2b credentials from the comb dataset |
-
 #### upstream
 
 - [sherlock-project/sherlock#2394](https://github.com/sherlock-project/sherlock/pull/2394): bluesky target
