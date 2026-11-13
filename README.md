@@ -21,23 +21,23 @@ backend engineering, cryptography, offensive security.
 {
   "user": "ibnaleem",
   "member_since": 2023,
-  "repos": 103,
+  "repos": 35,
   "followers": 185,
-  "stars": 4279,
-  "forks": 448,
-  "top_language": "Python",
-  "commits": 3371,
+  "stars": 4144,
+  "forks": 409,
+  "top_language": "Go",
+  "commits": 2711,
   "contributions_last_year": 1205,
   "pull_requests": {
-    "received": 138,
-    "closed": 136,
-    "merged": 79
+    "received": 133,
+    "closed": 131,
+    "merged": 74
   },
   "issues": {
-    "received": 110,
-    "closed": 101
+    "received": 92,
+    "closed": 88
   },
-  "updated_at": "2026-11-12"
+  "updated_at": "2026-11-13"
 }
 ```
 <!--STATS_END-->
